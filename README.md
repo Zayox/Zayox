@@ -23,7 +23,7 @@ Skills: SOLIDITY / REACT / JS / HTML / CSS
 
 ## My last project
 
-(https://scontent-mrs2-2.xx.fbcdn.net/v/t39.30808-6/256880300_2190716391097534_1195590608729800954_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=uVjyRrCe99gAX9aMjZa&_nc_ht=scontent-mrs2-2.xx&oh=490ae0182b017c9d3f26635851a9a7ab&oe=6194D917)
+![Web & App Development](https://scontent-mrs2-2.xx.fbcdn.net/v/t39.30808-6/256880300_2190716391097534_1195590608729800954_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=uVjyRrCe99gAX9aMjZa&_nc_ht=scontent-mrs2-2.xx&oh=490ae0182b017c9d3f26635851a9a7ab&oe=6194D917)
 
 
 
