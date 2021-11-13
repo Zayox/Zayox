@@ -12,7 +12,15 @@ Je suis Amir je vie en France, et je fais suis développeur. J'aime vraiment app
 
 Skills: SOLIDITY / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on my own company 
+- 🌱 I’m currently learning Solidity 
+- 💬 Ask me about my experience 
+- ⚡ Fun fact: ex fortnite pro player 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zayox)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](zayox.github.io)  
+
+
 
 
 
