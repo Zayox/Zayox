@@ -3,6 +3,7 @@
 
 
 I'm Amir and I live in France, I'm a developer. I really like to learn new languages and some frameworks like React and React Native, but I also work on Shopify and Wordpress. I enjoy everything related to UI, UX but I give a particular attention for everything related to back-end.
+Blockchain maximalist since 2017.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zayox)](https://github.com/anuraghazra/github-readme-stats)
