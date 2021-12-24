@@ -25,7 +25,7 @@ Skills: REACT / JS / HTML / CSS
 
 ## My last project (KingTV)
 
-![Web & App Development](https://www.facebook.com/photo/?fbid=2190716394430867&set=a.169478756554651)
+![Web & App Development](https://www.linkpicture.com/q/Amir-banner_1.jpg)
 
 
 
