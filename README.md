@@ -1,4 +1,3 @@
-![Web & App Development]
 # Amir MOUMEN
 
 
