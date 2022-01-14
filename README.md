@@ -11,7 +11,7 @@ Blockchain maximalist since 2017.
 ## Web & App Development
 
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / NODE / JS / HTML / CSS
 
 - 🔭 I’m currently working on my own company 
 - 🌱 I’m currently learning Solidity 
