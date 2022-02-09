@@ -11,12 +11,7 @@ Blockchain maximalist since 2017.
 ## Web & App Development
 
 
-Skills: REACT / NODE / JS / HTML / CSS
-
-- 🔭 I’m currently working on my own company 
-- 🌱 I’m currently learning Solidity 
-- 💬 Ask me about my experience 
-- ⚡ Fun fact: ex fortnite pro player 
+Skills: REACT / NEXT / NODE / JS / HTML / CSS / TAILWIND
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zayox)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](zayox.github.io)  
