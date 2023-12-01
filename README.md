@@ -19,7 +19,7 @@ Skills: REACT / NEXT / NODE / VANILLA JS / HTML / CSS / TAILWIND / REACT NATIVE 
 
 ## My last project (KingTV)
 
-![Web & App Development](https://www.linkpicture.com/q/Amir-banner_1.jpg)
+![Web & App Development](https://zayox-portfolio.vercel.app/static/media/kingtv.efe2b809.jpg)
 
 
 
