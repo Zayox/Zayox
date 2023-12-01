@@ -14,7 +14,7 @@ Blockchain enthusiastic since 2017.
 Skills: REACT / NEXT / NODE / VANILLA JS / HTML / CSS / TAILWIND / REACT NATIVE / JAVA / TYPESCRIPT
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zayox)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](zayox.github.io)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zayox) 
 
 
 ## My last project (KingTV)
