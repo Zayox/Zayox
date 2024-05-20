@@ -5,9 +5,6 @@ Hello my name is Amir, I'm 19yo and I live in France, I'm a developer. I really 
 Blockchain enthusiastic since 2017.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zayox)](https://github.com/anuraghazra/github-readme-stats
-
-
 ## Web & App Development
 
 
